@@ -24,13 +24,13 @@ The analysis involved creating customer categories, comparing churned and retain
 
 Summarises the customer population by age, country, credit score, activity status and product holdings.
 
-![Customer demographics dashboard](Images/Veritas%20Customer%20Demography.png)
+![Customer demographics dashboard](Images/Customer%20Demography.png)
 
 ### Churn Analysis
 
 Explores churn patterns across account and customer characteristics.
 
-![Customer churn dashboard](Images/Veritas%20Churn%20Analysis.png)
+![Customer churn dashboard](Images/Churn%20Analysis.png)
 
 ## Headline Results
 
